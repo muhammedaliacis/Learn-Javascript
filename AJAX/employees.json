@@ -1,0 +1,17 @@
+[
+	{
+		"name":"Muhammed Ali Açış",
+		"department":"Software",
+		"salary": 10000
+	},
+	{
+		"name":"Nisa Yum",
+		"department":"Software",
+		"salary": 12000
+	},	
+	{
+		"name":"Yakup Açış",
+		"department":"Software",
+		"salary": 8000
+	}
+]
