@@ -6,10 +6,10 @@ function load(e){
     console.log("Load page.");
 }
 
-// Focus 
+// Focus odaklanmak
 filter.addEventListener("focus", run);
 
-// Blur
+// Blur odaktan cikma
 filter.addEventListener("blur", run);
 
 // Paste  and Copy and Cut
@@ -18,7 +18,7 @@ filter.addEventListener("copy", run);
 filter.addEventListener("cut", run);
 
 
-// Select
+// Select  yazi secme
 filter.addEventListener("select", run);
 
 function run(e){
